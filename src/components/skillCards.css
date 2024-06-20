@@ -1,0 +1,15 @@
+.cardStyle{
+    /* width: "10rem"; */
+
+    /* padding: "1rem"; */
+    /* margin:"0 auto"; */
+    border: "2px solid grey";
+    height: 10rem;
+    align-items: "center";
+    justify-content: "center";
+
+}
+.cardTitle{
+    font-size: medium;
+    font-weight: 300;
+}
