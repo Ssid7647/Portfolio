@@ -1,0 +1,87 @@
+.resumeImg {
+  z-index: -1;
+  object-fit: fill;
+  height: auto;
+  width: auto;
+}
+.hireMeImage {
+  height: 3rem;
+  width: 5rem;
+  object-fit: cover;
+  /* margin: 0 0.25rem; */
+}
+.introContent {
+  /* padding: 5rem; */
+  font-size: 4vw;
+  font-weight: 700;
+}
+.hello {
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+.introName {
+  color: rgb(22, 96, 234);
+}
+
+.paragraph {
+  font-size: small;
+  font-weight: 200;
+}
+
+.btn {
+  /* background: #a8d1fd; */
+  margin: 2rem 0;
+  padding: 0.75rem 1.5rem;
+  /* border: none; */
+  border-radius: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: antiquewhite;
+}
+
+@media screen and (max-width: 480px) {
+  .resumeImg {
+    z-index: -1;
+    object-fit: fill;
+    height: 30rem;
+    width: 100vw;
+  }
+  .hireMeImage {
+    /* height: 3rem; */
+    width: 3rem;
+    object-fit: cover;
+    margin: 0 0.25rem;
+  }
+  .introContent {
+    font-size: 2rem;
+    font-weight: 700;
+  }
+  .hello {
+    font-size: 1.75rem;
+    font-weight: 700;
+  }
+  .introName {
+    color: rgb(22, 96, 234);
+  }
+
+  .paragraph {
+    font-size: small;
+    font-weight: 200;
+  }
+
+  .btn {
+    
+    margin: 0 auto;
+    padding: 0.45rem .5rem;
+    
+    border-radius: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: antiquewhite;
+    font-size: 0.75rem;
+  }
+}

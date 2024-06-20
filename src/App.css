@@ -1,0 +1,36 @@
+.App {
+  border: 2px solid grey;
+  /* width: 100%; */
+  /* z-index: auto; */
+  /* margin: 0 auto; */
+  background: rgb(38, 45, 69);
+  font-family: "popper";
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  background: transparent;
+  font-family: "Poppins", sans-serif;
+}
+
+.body {
+  background: rgb(10, 10, 10);
+  color: white;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+
+
+@media screen and (max-width: 420px) {
+  .App {
+    border: 2px solid grey;
+    width: 100svw;
+    z-index: auto;
+    margin: 0 auto;
+    background: rgb(38, 45, 69);
+    font-family: "popper";
+  }
+}
