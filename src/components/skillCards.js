@@ -76,38 +76,40 @@ const SkillCards = () => {
 
     const imgStyle = {
         "z-index": -1,
-    "object-fit": "cover",
-    "height": "5.5rem",
-    "align-self": "center",
-    width: "5.5rem"
-}
+        "object-fit": "cover",
+        "height": "5.5rem",
+        "align-self": "center",
+        width: "5.5rem",
+        "padding":".5rem"
+    }
 
 
 
-return (
+    return (
 
 
-    <Row xs={2} md={4} className="g-4 justify-content-md-center ">
-        {skills.map((skill, idx) => (
-            <Col key={idx}>
-                <Card className="cardStyle" bg={skill.variant.toLowerCase()}
-                    key={skill.variant}
-                    text={skill.variant.toLowerCase() === 'light' ? 'dark' : 'white'}
+        <Row xs={2} md={4} className="g-4 justify-content-md-center ">
+            {skills.map((skill, idx) => (
+                <Col key={idx}>
+                    <Card className="cardStyle" bg={skill.variant.toLowerCase()}
+                        key={skill.variant}
+                        text={skill.variant.toLowerCase() === 'light' ? 'dark' : 'white'}
 
-                    border={skill.variant.toLowerCase()}
-                >
+                        border={skill.variant.toLowerCase()}
+                    >
 
-                    <Card.Img  variant="top" style={imgStyle} src={skill.img} />
-                    <Card.Body>
-                        <Card.Title className='cardTitle'>{skill.title}</Card.Title>
-                    </Card.Body>
-                </Card>
-            </Col>
-        ))}
-    </Row>
+                        <Card.Img  variant="top" style={imgStyle} src={skill.img} />
+                        <Card.Body>
+                            <Card.Title className='cardTitle'>{skill.title}</Card.Title>
+                        </Card.Body>
+                    </Card>
+                </Col>
+            ))}
+        </Row>
+     
 
 
-);
+    );
 }
 
 export default SkillCards;

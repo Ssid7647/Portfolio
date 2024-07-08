@@ -1,5 +1,5 @@
 .topNav {
-  background: rgb(12, 13, 19);
+  /* background: rgb(12, 13, 19); */
   height: 12vh;
 }
 
@@ -94,7 +94,7 @@
     display: none;
   }
   .topNav {
-    background:  rgb(38, 45, 69);
+    /* background:  rgb(38, 45, 69); */
     height: 15vh;
   }
 }
