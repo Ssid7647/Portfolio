@@ -1,0 +1,488 @@
+{
+    "Hello World. My name is Jonas.": {
+        "ہیلو ورلڈ ۔ میرا نام جوناس ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "What is your name? My name is Jonas.": {
+        "آپ کا نام کیا ہے ؟ میرا نام جوناس ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "There it is! I found it.": {
+        "وہاں ہے! میں نے اسے ڈھونڈ لیا ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "My name is Jonas E. Smith.": {
+        "میرا نام جوناس ای سمتھ ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Please turn to p. 55.": {
+        "براہ کرم صفحہ 55 کی طرف رجوع کریں ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Were Jane and co. at the party?": {
+        "کیا جین اینڈ کمپنی پارٹی میں موجود تھی ؟": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "I can see Mt. Fuji from here.": {
+        "میں ایم ٹی دیکھ سکتا ہوں ۔ یہاں سے فوجی ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "St. Michael's Church is on 5th st. near the light.": {
+        "سینٹ مائیکل چرچ روشنی کے قریب 5 ویں سینٹ پر ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "That is JFK Jr.'s book.": {
+        "یہ جے ایف کے جونیئر کی کتاب ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "She has $100.00 in her bag.": {
+        "اس کے بیگ میں 100.00 ڈالر ہیں ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "He teaches science (He previously worked for 5 years as an engineer.) at the local University.Her email is Jane.Doe@example.com. I sent her an email.": {
+        "وہ سائنس پڑھاتا ہے (اس نے پہلے انجینئر کی حیثیت سے 5 سال کام کیا تھا ۔) مقامی یونیورسٹی.Her پر ای میل جین.Doe @مثال. com ہے ۔ میں نے اسے ایک ای میل بھیجا ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Her email is Jane.Doe@example.com. I sent her an email.": {
+        "اس کا ای میل Jane.Doe @مثال. com ہے ۔ میں نے اسے ایک ای میل بھیجا ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "The site is: https://www.example.50.com/new-site/awesome_content.html. Please check it out.": {
+        "سائٹ یہ ہے: HTTSS://www.Examle.50.com/new-site/awesome_content.htمل ۔ براہ کرم اسے چیک کریں ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "She turned to him, This is great. she said.": {
+        "وہ اس کی طرف مڑی ، یہ بہت اچھا ہے ۔ اس نے کہا ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Hello! Long time no see.": {
+        "ہیلو! کافی دیر تک کوئی نظر نہیں آیا ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "This is a sentence cut off in the middle because pdf.": {
+        "یہ ایک جملہ ہے جو پی ڈی ایف کی وجہ سے بیچ میں کاٹ دیا گیا ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "It was a cold night in the city.": {
+        "شہر میں ایک سرد رات تھی ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "features contact manager events, activities": {
+        "رابطہ مینیجر کے واقعات ، سرگرمیاں": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "You can find it at N°. 1026.253.553. That is where the treasure is.": {
+        "آپ اسے N° پر تلاش کر سکتے ہیں ۔ 1026.253.553. یہی وہ جگہ ہے جہاں خزانہ موجود ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "She works at Yahoo! in the accounting department.": {
+        "وہ یاہو! میں کام کرتی ہے ۔ اکاؤنٹنگ ڈیپارٹمنٹ میں ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "We make a good team, you and I. Did you see Albert I. Jones yesterday?": {
+        "ہم ایک اچھی ٹیم بناتے ہیں ، آپ اور میں ۔ کیا آپ نے کل البرٹ آئی جونز کو دیکھا ؟": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "\"Bohr used the analogy of parallel stairways\".": {
+        "\"بوہر نے متوازی سیڑھیوں کی مشابہت کا استعمال کیا ۔\"": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "My company is Abc co. e.g. into United States.": {
+        "میری کمپنی اے بی سی کو ۔ e.g ہے ۔ ریاستہائے متحدہ میں ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "My company is Abc co. #be_happy is our motto.": {
+        "میری کمپنی اے بی سی کمپنی ہے ۔ #be_happy ہمارا مقصد ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Yesterday at 3am I was surfing http://twitter.com. I won a 100$ lottery for the first time. I spent 100% of it in just 1 hour :P Can you imagine that 😅? #yolo": {
+        "کل صبح 3 بجے میں سرفنگ کر رہا تھا ۔ میں نے پہلی بار 100 ڈالر کی لاٹری جیتی ۔ میں نے اس کا 100% صرف 1 گھنٹے میں خرچ کیا: پی کیا آپ اس کا تصور کر سکتے ہیں ؟ #yolo": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Hello   World🌎! How are you?": {
+        "ہیلو ورلڈ! آپ کیسے ہیں ؟": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "On July 20, 1969, a voice crackled from the speakers. He said simply, \"the Eagle has landed.\" They spent nearly 21 hours on the lunar surface. 20% of the world\\'s population watched humans walk on Moon.": {
+        "20 جولائی 1969 کو مقررین میں سے ایک آواز نکلی ۔ اس نے سیدھا سا کہا ، \"عقاب اتر چکا ہے ۔\" انہوں نے چاند کی سطح پر تقریبا 21 گھنٹے گزارے ۔ دنیا کی 20% آبادی انسانوں کو چاند پر چلتے ہوئے دیکھتی ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "The Godfather premiered on March 15, 1972. It was released on March 24, 1972. It is the first installment in The Godfather trilogy. The story of the movie spans from 1945 to 1955. About 90 percent of the film was shot in New York City. The movie was made on a budget of $7.2 million. And it has a running time of 177 minutes.": {
+        "دی گاڈ فادر کا پریمیئر 15 مارچ 1972 کو ہوا ۔ یہ 24 مارچ 1972 کو ریلیز ہوئی تھی ۔ یہ دی گاڈ فادر تریی کی پہلی قسط ہے ۔ فلم کی کہانی 1945 سے 1955 تک پھیلی ہوئی ہے ۔ فلم کی تقریبا 90 فیصد شوٹنگ نیویارک شہر میں کی گئی ۔ یہ فلم 7.2 ملین ڈالر کے بجٹ پر بنائی گئی تھی ۔ اور اس کا رننگ ٹائم 177 منٹ کا ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Its quarterly profits jumped 76% to $1.13 billion for the three months to December, from $639million of previous year.": {
+        "دسمبر تک تین مہینوں کے لیے اس کا سہ ماہی منافع 76% بڑھ کر 1.13 بلین ڈالر ہو گیا ، جو پچھلے سال کے 63.9 ملین ڈالر تھا ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Rain, rain, go away Come again another day!": {
+        "بارش ، بارش ، چلے جائیں ایک اور دن دوبارہ آئیں!": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Manchester United is a football club based in Manchester.": {
+        "مانچسٹر یونائیٹڈ مانچسٹر میں واقع ایک فٹ بال کلب ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Each time we gather to inaugurate a President we bear witness to the enduring strength of our Constitution.": {
+        "جب بھی ہم کسی صدر کا افتتاح کرنے کے لیے جمع ہوتے ہیں تو ہم اپنے آئین کی پائیدار طاقت کے گواہ ہوتے ہیں ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Mr. Z owns AI Inc. and he climbed Mt. Everest.": {
+        "مسٹر زیڈ اے آئی انکارپوریٹڈ کے مالک ہیں اور انہوں نے ماؤنٹ پر چڑھائی کی ۔ ایورسٹ ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Pierre Vinken, 61 years old, will join the board as a nonexecutive director Nov. 29. Mr. Vinken is chairman of Elsevier N.V., the Dutch publishing group. Rudolph Agnew, 55 years old and former chairman of Consolidated Gold Fields PLC, was named a director of this British industrial conglomerate.": {
+        "61 سالہ پیئر ونکن 29 نومبر کو غیر ایگزیکٹو ڈائریکٹر کی حیثیت سے بورڈ میں شامل ہوں گے ۔ مسٹر ونکن ڈچ پبلشنگ گروپ ایلسیویئر N.V. کے چیئرمین ہیں ۔ 55 سالہ اور کنسولیڈیٹڈ گولڈ فیلڈز پی ایل سی کے سابق چیئرمین روڈولف اگنو کو اس برطانوی صنعتی جماعت کا ڈائریکٹر نامزد کیا گیا ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "As part of National Digital Crime Resource and Training Centre (NDCRTC) setup at SVP National Police Academy by C-DAC, 159 training programmes were conducted in Disk Forensics, Mobile Foensics, CDR Analysis and Network Forensics. 4135 participants were training which include IPS Probationers, Police officers of different ranks from different States of India, Department of Telecom Officers, Ordinance Factory Faculty, Counter Intelligence Staff, DoF Intelligence, Central Exercise & Service Tax, DRI, Cabinet Secretariat, CBDT, ED, Navy etc.": {
+        "سی-ڈی اے سی کے ذریعے ایس وی پی نیشنل پولیس اکیڈمی میں قائم کردہ نیشنل ڈیجیٹل کرائم ریسورس اینڈ ٹریننگ سینٹر (این ڈی سی آر ٹی سی) کے حصے کے طور پر ڈسک فارنکس ، موبائل فوینسکس ، سی ڈی آر تجزیہ اور نیٹ ورک فارنکس میں 159 تربیتی پروگرام منعقد کیے گئے ۔ 4135 شرکاء تربیت حاصل کر رہے تھے جن میں آئی پی ایس پروبیشنرز ، ہندوستان کی مختلف ریاستوں کے مختلف رینکوں کے پولیس افسران ، محکمہ ٹیلی کام آفیسرز ، آرڈیننس فیکٹری فیکلٹی ، کاؤنٹر انٹیلی جنس اسٹاف ، ڈی او ایف انٹیلی جنس ، سنٹرل ایکسرسائز اینڈ سروس ٹیکس ، ڈی آر آئی ، کابینہ سیکرٹریٹ ، سی بی ڈی ٹی ، ای ڈی ، بحریہ وغیرہ شامل تھے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "My name is Kapil. 40 is my age.": {
+        "میرا نام کپل ہے ۔ میری عمر 40 سال ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "I work from AI Inc. 26 block Arizona.": {
+        "میں اے آئی انکارپوریٹڈ 26 بلاک ایریزونا سے کام کرتا ہوں ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "The match won by IND. 7 overs left.": {
+        "یہ میچ بھارت نے جیتا ۔ 7 اوور باقی ہیں ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Hello world. Today is Monday.": {
+        "ہیلو ورلڈ ۔ آج پیر ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Hello World. Today is Tuesday.": {
+        "ہیلو ورلڈ ۔ آج منگل ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "The luxury auto maker last year sold 1,214 cars in the U.S. Howard Mosher, president and chief executive officer, said he anticipates growth for the luxury auto maker in Britain and Europe, and in Far Eastern markets.": {
+        "لگژری آٹو بنانے والی کمپنی نے گزشتہ سال U.S. میں 1,214 کاریں فروخت کیں ۔ صدر اور چیف ایگزیکٹو آفیسر ہاورڈ موشر نے کہا کہ وہ برطانیہ اور یورپ اور مشرق بعید کی منڈیوں میں لگژری آٹو بنانے والی کمپنی کے لیے ترقی کی توقع رکھتے ہیں ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "The JW considers itself THE kingdom of God on earth. (‘Kindom Hall’) So it is only to be expected that they do not see a reason to run to and report everything to the government.": {
+        "جے ڈبلیو خود کو زمین پر خدا کی بادشاہی سمجھتا ہے ۔ ('کنڈم ہال') اس لیے صرف یہ توقع کی جانی چاہیے کہ وہ حکومت کے پاس جانے اور ہر چیز کی اطلاع دینے کی کوئی وجہ نہ دیکھیں ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "At some schools, even professionals boasting Ph.D. degrees are coming back to school for Master’s degrees.": {
+        "کچھ اسکولوں میں ، یہاں تک کہ Ph.D ڈگریوں پر فخر کرنے والے پیشہ ور بھی ماسٹر ڈگری کے لیے اسکول واپس آ رہے ہیں ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "If Harvard doesn’t come through, I ‘ll take the test to get into Yale. many parents set goals for their children, or maybe they don’t set a goal.": {
+        "اگر ہارورڈ کامیاب نہ ہوا تو میں ییل میں داخل ہونے کے لیے امتحان دوں گا ۔ بہت سے والدین اپنے بچوں کے لیے اہداف طے کرتے ہیں ، یا ہو سکتا ہے کہ وہ کوئی ہدف مقرر نہ کریں ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "No, to my mind, the Journal did not “defend sleaze, fraud, waste, embezzlement, influence-peddling and abuse of the public trust it defended appropriate constitutional safeguards and practical common sense.": {
+        "نہیں ، میرے خیال میں ، جرنل نے \"عوامی اعتماد کے ناجائز استعمال ، دھوکہ دہی ، فضول خرچی ، اثر و رسوخ اور غلط استعمال کا دفاع نہیں کیا ۔ اس نے مناسب آئینی تحفظات اور عملی عقل کا دفاع کیا ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Bharat Ratna Avul Pakir Jainulabdeen Abdul Kalam is also called as Dr. A.P.J Abdul Kalam.": {
+        "بھارت رتن اوول پاکیر جینولابدین عبدالکلام کو ڈاکٹر A.P.J عبدالکلام بھی کہا جاتا ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "The agency said it confirmed American Continental’s preferred stock rating at C. American Continental’s thrift unit, Los Angeles-based Lincoln Savings & Loan Association, is in receivership and the parent company has filed for protection from creditor lawsuits under Chapter 11 of the federal Bankruptcy Code.": {
+        "ایجنسی نے کہا کہ اس نے تصدیق کی ہے کہ سی ۔ امریکن کانٹینینٹل کے تھرفٹ یونٹ ، لاس اینجلس میں مقیم لنکن سیونگ اینڈ لون ایسوسی ایشن میں امریکن کانٹینینٹل کی ترجیحی اسٹاک ریٹنگ وصول کرنے میں ہے اور پیرنٹ کمپنی نے فیڈرل بینکروپسی کوڈ کے باب 11 کے تحت قرض دہندگان کے قانونی چارہ جوئی سے تحفظ کے لیے درخواست دائر کی ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Wang first asked: “Are you sure you want the original inscription ground off?” Without thinking twice about it, Huang said yes.": {
+        "وانگ نے پہلے پوچھا: \"کیا آپ کو یقین ہے کہ آپ اصل نوشتہ کو ختم کرنا چاہتے ہیں ؟\" اس کے بارے میں دو بار سوچے بغیر ، ہوانگ نے ہاں کہہ دی ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Let's ask Jane and co. They should know.": {
+        "آئیے جین اینڈ کمپنی سے پوچھیں ۔ انہیں معلوم ہونا چاہیے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "They closed the deal with Pitt, Briggs & Co. It closed yesterday.": {
+        "انہوں نے پٹ ، بریگز اینڈ کمپنی کے ساتھ معاہدہ بند کر دیا ۔ یہ کل بند ہوا ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "I visited the U.S.A. last year.": {
+        "میں پچھلے سال U.S.A. گیا تھا ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "I work for the U.S. Government in Virginia.": {
+        "میں ورجینیا میں U.S. حکومت کے لئے کام کرتا ہوں ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "I have lived in the U.S. for 20 years.": {
+        "میں پچھلے 20 سالوں سے امریکہ میں مقیم ہوں ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "At 5 a.m. Mr. Smith went to the bank. He left the bank at 6 P.M. Mr. Smith then went to the store.": {
+        "5 a.m پر مسٹر سمتھ بینک گئے ۔ انہوں نے 6 P.M پر بینک چھوڑ دیا. مسٹر سمتھ پھر اسٹور پر چلا گیا.": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "She has $100.00. It is in her bag.": {
+        "اس کے پاس $100.00 ہے ۔ یہ اس کے بیگ میں ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "She turned to him, This is great. She held the book out to show him.": {
+        "وہ اس کی طرف مڑی ، یہ بہت اچھا ہے ۔ اس نے اسے دکھانے کے لیے کتاب نکالی ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Hello! Is that you?": {
+        "ہیلو! کیا یہ آپ ہیں ؟": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Thoreau argues that by simplifying one’s life, “the laws of the universe will appear less complex”": {
+        "تھوراؤ کا استدلال ہے کہ کسی کی زندگی کو آسان بنانے سے \"کائنات کے قوانین کم پیچیدہ نظر آئیں گے\"": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "I wasn’t really well, what I mean see what I'm saying, the thing is .I didn’t mean it.": {
+        "میں واقعی ٹھیک نہیں تھا ، میرا کیا مطلب ہے دیکھیں کہ میں کیا کہہ رہا ہوں ، بات یہ ہے ۔ میرا یہ مطلب نہیں تھا ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "My name is Khan. I work for Khan Academy.": {
+        "میرا نام خان ہے ۔ میں خان اکیڈمی کے لیے کام کرتا ہوں ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "My company is Abc Co. I work for Khan Academy.": {
+        "میری کمپنی اے بی سی کو ہے ۔ میں خان اکیڈمی کے لیے کام کرتا ہوں ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "My company is Abc co. She lives into United States.": {
+        "میری کمپنی اے بی سی کمپنی ہے ۔ وہ امریکہ میں رہتی ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "My name is mukul. 25 is my age.": {
+        "میرا نام مکول ہے ۔ میری عمر 25 سال ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "The work has been done by us. 12 days were taken.": {
+        "کام ہماری طرف سے کیا گیا ہے. 12 دن لیا گیا ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Hello World. Tomorrow is Wednesday.": {
+        "ہیلو ورلڈ ۔ کل بدھ ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "He adds, in a far less amused tone, that the government has been talking about making Mt. Kuanyin a national park for a long time, and has banned construction or use of the mountain.": {
+        "وہ مزید کہتے ہیں ، بہت کم خوشگوار لہجے میں ، کہ حکومت ماؤنٹ بنانے کے بارے میں بات کر رہی ہے ۔ کوانائن ایک طویل عرصے سے ایک قومی پارک ہے ، اور اس نے پہاڑ کی تعمیر یا استعمال پر پابندی عائد کردی ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "“It’s too much, there’s only us two, how are we going to eat this?” I asked young Zhao as I looked at him in surprise.": {
+        "\"یہ بہت زیادہ ہے ، صرف ہم دو ہیں ، ہم یہ کیسے کھائیں گے ؟\" میں نے نوجوان زاؤ سے حیرت سے دیکھا ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "I never meant that. She left the store.": {
+        "میرا یہ مطلب کبھی نہیں تھا ۔ وہ دکان سے نکل گئی ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "One further habit which was somewhat weakened was that of combining words into self-interpreting compounds. The practice was not abandoned.": {
+        "ایک اور عادت جو کچھ حد تک کمزور ہو گئی تھی وہ الفاظ کو خود تشریح کرنے والے مرکبات میں جوڑنا تھی ۔ اس عمل کو ترک نہیں کیا گیا ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "My company is Abc co. Located into United States.": {
+        "میری کمپنی اے بی سی کو ہے ۔ ریاستہائے متحدہ میں واقع ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "My company is Abc co. Lives into United States.": {
+        "میری کمپنی اے بی سی کو ہے ۔ امریکہ میں رہتا ہے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "My company is Abc company. #be_happy is our motto.": {
+        "میری کمپنی اے بی سی کمپنی ہے ۔ #be_happy ہمارا مقصد ہے.": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "AI Inc. is focussing on AI. I work for AI Inc. My mail is r2d2@yahoo.com! The U.S.A is my birth place. I was born on 06.12.1996. I climbed Mt. Everest.": {
+        "اے آئی انکارپوریٹڈ اے آئی پر توجہ مرکوز کر رہا ہے ۔ میرا ای میل ہے r2d2@yahoo.com! U.S.A میری جائے پیدائش ہے ۔ میں 06.12.1996 کو پیدا ہوا ۔ میں ماؤنٹ پر چڑھ گیا ۔ ایورسٹ ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "After seeing the list of what would not be open and/or on duty which I’m also quite sure is not complete I ‘ll go out on a limb and predict that this will not happen.": {
+        "ان چیزوں کی فہرست دیکھنے کے بعد جو کھلی اور/یا ڈیوٹی پر نہیں ہوں گی جس کا مجھے بھی پورا یقین ہے کہ یہ مکمل نہیں ہے میں ایک اعضاء پر باہر جاؤں گا اور پیش گوئی کروں گا کہ ایسا نہیں ہوگا ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "3rd TIME watching That70sShow:D @Netflix http://tiny.cc/fijqkz": {
+        "تیسری بار دیکھ رہا ہے کہ 70sShow: D @Netflix http://tiny.cc/fijqkz": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Everyone please note my blog on Donews http://blog.donews.com/pangshengdong. What I say is not necessarily right, but I am confident that if you read it carefully it should give you a start.": {
+        "ہر کوئی براہ کرم میرے بلاگ کو نوٹ کریں Donews http://blog.donews.com/pangshengdong. میں جو کہتا ہوں وہ لازمی طور پر درست نہیں ہے ، لیکن مجھے یقین ہے کہ اگر آپ اسے غور سے پڑھیں تو اس سے آپ کو ایک شروعات ملنی چاہیے ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "They closed the deal with Pitt, Briggs & Co. at noon.": {
+        "انہوں نے دوپہر کو پٹ ، بریگز اینڈ کمپنی کے ساتھ معاہدہ ختم کر دیا ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "I live in the E.U. What about you?": {
+        "میں E.U میں رہتا ہوں ۔ آپ کے بارے میں کیا ؟": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Hello? Who is there?": {
+        "ہیلو ؟ کون ہے وہاں ؟": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "Hello? Is that you?": {
+        "ہیلو ؟ کیا یہ آپ ہیں ؟": {
+            "segmentation": [],
+            "length": 0
+        }
+    },
+    "If words are left off at the end of a sentence, and that is all that is omitted, indicate the omission with ellipsis marks (preceded and followed by a space) and then indicate the end of the sentence with a period . Next sentence.": {
+        "اگر کسی جملے کے آخر میں الفاظ چھوڑے جاتے ہیں ، اور بس اتنا ہی چھوڑ دیا جاتا ہے ، تو ایلیپسس کے نشانات (اس سے پہلے اور اس کے بعد ایک جگہ) کے ساتھ چھوٹ کی نشاندہی کریں اور پھر مدت کے ساتھ جملے کے اختتام کی نشاندہی کریں ۔ اگلا جملہ ۔": {
+            "segmentation": [],
+            "length": 0
+        }
+    }
+}

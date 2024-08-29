@@ -122,7 +122,7 @@ const Job = () => {
 
                 </VerticalTimelineElement>
 
-              
+
 
             </VerticalTimeline>
         </div>
@@ -172,7 +172,7 @@ const Timelines = () => {
 
                 <div label="Academic"><Education /></div>
                     <div label="Professional"><Job /></div>
-                   
+
 
                 </Tabs>
             </div>

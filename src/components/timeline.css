@@ -2,3 +2,65 @@
     margin: .5rem;
     padding: 1rem;
 }
+.timeline-container {
+  position: relative;
+  background-color: #222;
+  color: white;
+  padding: 20px 0;
+  width: 100%;
+}
+
+.timeline-line {
+  position: absolute;
+  width: 4px;
+  background-color: #fff;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.timeline-event {
+  position: relative;
+  width: 50%;
+  padding: 20px 40px;
+  box-sizing: border-box;
+}
+
+.timeline-event.left {
+  left: 0;
+  text-align: right;
+}
+
+.timeline-event.right {
+  left: 50%;
+  text-align: left;
+}
+
+.event-content {
+  position: relative;
+}
+
+.event-date {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.event-text {
+  margin-bottom: 10px;
+}
+
+.timeline-event:before {
+  content: "";
+  position: absolute;
+  top: 20px;
+  width: 15px;
+  height: 15px;
+  background-color: #fff;
+  border-radius: 50%;
+  left: -8px;
+}
+
+.timeline-event.right:before {
+  left: calc(100% - 8px);
+}
