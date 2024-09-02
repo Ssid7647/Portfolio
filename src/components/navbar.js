@@ -39,8 +39,8 @@ const NavbarComponent = () => {
                             {/* <Link activeClass="active" to="skills" spy={true} smooth={true} offset={-50} duration={500} className="desktopMenuListitem">Skills</Link> */}
                             <Link activeClass="active" to="timeline" spy={true} smooth={true} offset={-50} duration={100} className="desktopMenuListitem">Timeline</Link>
                             <Link activeClass="active" to="projects" spy={true} smooth={true} offset={-100} duration={100} className="desktopMenuListitem">Works</Link>
-                            <Link activeClass="active" to="projects" spy={true} smooth={true} offset={-100} duration={100} className="desktopMenuListitem">Works</Link>
-                            <Link activeClass="active" to="projects" spy={true} smooth={true} offset={-100} duration={100} className="desktopMenuListitem">Works</Link>
+                            {/* <Link activeClass="active" to="projects" spy={true} smooth={true} offset={-100} duration={100} className="desktopMenuListitem">Works</Link> */}
+                            {/* <Link activeClass="active" to="projects" spy={true} smooth={true} offset={-100} duration={100} className="desktopMenuListitem">Works</Link> */}
 
 
                         </div>

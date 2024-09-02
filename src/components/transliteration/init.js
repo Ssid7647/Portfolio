@@ -156,26 +156,31 @@ export async function init() {
 
 
         //path to onnx models in public direcotry of the react project
-        let encoderPath = "./bhartiya.encoder.quant.onnx"
-        let decoderPath = "./bhartiya.decoder.quant.onnx";
+        let encoderPath = "bhartiya_encoder.onnx"
+        let decoderPath = "bhartiya_decoder.onnx";
+        // let encoderPath = "bhartiya.encoder.quant.onnx"
+        // let decoderPath = "bhartiya.decoder.quant.onnx";
+        // let encoderPath = 'https://cors-anywhere.herokuapp.com/https://raw.githubusercontent.com/Ssid7647/Portfolio/main/public/model/bhartiya.encoder.quant.onnx';
+        // let decoderPath = 'https://cors-anywhere.herokuapp.com/https://raw.githubusercontent.com/Ssid7647/Portfolio/main/public/model/bhartiya.decoder.quant.onnx';
+
         let srcVocab = english_lower_script
         let tgtVocab = vocab["global"]
 
 
-        // Fetch model files
-        const encoderResponse = await fetch(encoderPath);
-        if (!encoderResponse.ok) {
-            throw new Error(`Failed to fetch encoder model: ${encoderResponse.statusText}`);
-        }
-        const encoderArrayBuffer = await encoderResponse.arrayBuffer();
+        // // Fetch model files
+        // const encoderResponse = await fetch(encoderPath);
+        // if (!encoderResponse.ok) {
+        //     throw new Error(`Failed to fetch encoder model: ${encoderResponse.statusText}`);
+        // }
+        // const encoderArrayBuffer = await encoderResponse.arrayBuffer();
 
-        const decoderResponse = await fetch(decoderPath);
-        if (!decoderResponse.ok) {
-            throw new Error(`Failed to fetch decoder model: ${decoderResponse.statusText}`);
-        }
-        const decoderArrayBuffer = await decoderResponse.arrayBuffer();
+        // const decoderResponse = await fetch(decoderPath);
+        // if (!decoderResponse.ok) {
+        //     throw new Error(`Failed to fetch decoder model: ${decoderResponse.statusText}`);
+        // }
+        // const decoderArrayBuffer = await decoderResponse.arrayBuffer();
 
-        model = new Transliteration(srcVocab, tgtVocab, encoderArrayBuffer, decoderArrayBuffer);
+        model = new Transliteration(srcVocab, tgtVocab, encoderPath, decoderPath);
         await model.initialize();
 
 
@@ -184,6 +189,7 @@ export async function init() {
         console.log("::::transliteration model loaded::::")
     } catch (error) {
         console.error("Failed to initialize models", error);
+        throw error
     }
 
 }
@@ -396,8 +402,9 @@ export async function transliterateSentence(sentence, langCode) {
             return new Error("Language not supported")
         }
 
-        let tokens = wordTokenization(sentence)
 
+        let tokens = wordTokenization(sentence)
+        console.log(tokens)
         let output = await parallelWordsProcessing(tokens, langCode)
         // console.log(tokens)
         // for (let token of tokens) {

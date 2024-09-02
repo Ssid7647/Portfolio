@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import "./transliteration.css"
 import { transliterateSentence, init } from './init.js';
 const Transliteration = () => {
     const [inputText, setInputText] = useState('');
@@ -7,19 +8,18 @@ const Transliteration = () => {
     const [targetLanguage, setTargetLanguage] = useState('hin');
     const supportedLanguages = ["arb", "asm", "ben", "hin", "guj", "tam", "mar", "mal", "pan"];
 
-    useEffect(() => {
-        (async () => {
-          try {
-            await init();
-            console.log("Models loaded successfully");
-          } catch (error) {
-            console.error("Failed to initialize models", error);
-          }
-        })();
-      }, []);
+
     useEffect(() => {
         countWords(inputText);
     }, [inputText]);
+
+    useEffect(() => {
+        async function initiate(){
+            await init()
+        }
+        initiate();
+          
+    }, []);
 
     const countWords = (text) => {
         const words = text.trim().split(/\s+/).filter(word => word.length > 0);
@@ -41,16 +41,8 @@ const Transliteration = () => {
         }
 
         try {
-            // const response = await fetch('/api/transliteration', {
-            //     method: 'POST',
-            //     headers: {
-            //         'Content-Type': 'application/json',
-            //     },
-            //     body: JSON.stringify({ content: inputText, targetLanguage }),
-            // });
 
-            // const data = await response.json();
-            const transliterationSentence = transliterateSentence(inputText, targetLanguage)
+            const transliterationSentence = await transliterateSentence(inputText, targetLanguage)
             setOutputText(transliterationSentence);
             return
         } catch (error) {
@@ -65,7 +57,7 @@ const Transliteration = () => {
     };
 
     return (
-        <div className="container m-5">
+        <div className="container m-5 bg-secondary">
             <h1 className="mb-4">Transliteration from English to Indian Languages (UNIFIED MODEL)</h1>
             <form id="transliterationForm" className="m-2">
                 <div className="form-group">
@@ -99,7 +91,7 @@ const Transliteration = () => {
                 </div>
 
                 <button type="button" className="btn btn-primary" onClick={transliterate}>Transliterate</button>
-                <button type="button" className="btn btn-secondary btn-clear" onClick={clearFields}>Clear</button>
+                <button type="button" className="btn btn-secondary " onClick={clearFields}>Clear</button>
             </form>
 
             <div className="counter m-5" id="wordCount">Word Count: {wordCount}</div>
