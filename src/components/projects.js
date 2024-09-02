@@ -100,13 +100,13 @@ export const Projects = () => {
                                 Sophisticated API for translation for all Indian languages using ULCA.
                             </li>
                             <li>
-                                <strong>Rule based Segmentation</strong> for all Indian languages. <Link to="./segmentation" target="blank">Segmentation UI</Link>
+                                <strong>Rule based Segmentation</strong> for all Indian languages. <Link to="/Portfolio/segmentation" target="blank">Segmentation UI</Link>
                             </li>
                             <li>
                                 <strong>NER and POS model</strong> for Indian languages.
                             </li>
                             <li>
-                                <strong> Transliteration model and services</strong> for Indian languages. <Link to="./transliteration" target="blank" >Transliteration UI</Link>
+                                <strong> Transliteration model and services</strong> for Indian languages. <Link to="/Portfolio/transliteration" target="blank" >Transliteration UI</Link>
                             </li>
                             <li>
                                 <b>Research paper</b> on "<a href="https://mkl9887647844.medium.com/bionics-prosthetic-using-artificial-intelligence-and-human-augmentation-9d788cdb5c52" target="blank" ><b><u>Bionics: <i>Human augmentation using Artificial Intelligence</i></u></b></a>"
