@@ -712,7 +712,7 @@ export class Transliteration {
             if (word.length === 0) return [""];
             if (word.length > maxLength) return ["Max length exceeds...!!!"];
 
-            if (this.containsSpecialCharacters(word) === true || this.isNumber(word) == true) {
+            if (this.containsSpecialCharacters(word) === true || this.isNumber(word) === true) {
                 if (this.cache.eng.includes(word)) {
                     return [this.cache[target][this.cache["eng"].indexOf(word)]]
                 }
